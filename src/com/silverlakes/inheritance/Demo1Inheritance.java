@@ -1,5 +1,5 @@
 package com.silverlakes.inheritance;
-
+//inheritance demo
 class Father {
 	public int fAge = 60;
 
